@@ -1,0 +1,10 @@
+body{
+    margin: 10px;
+    background-color: #00cb51;
+}
+
+#texto{
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+}
